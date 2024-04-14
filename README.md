@@ -1,5 +1,3 @@
-# CSS Planets + Rocket Timeline
-
 # AstroTracker: Navigating the Job Search Galaxy
 
 ## Inspiration ✨

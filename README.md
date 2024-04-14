@@ -28,3 +28,8 @@ Performance optimization was another challenge as we scaled up. We had to ensure
 As we continue to iterate on AstroTracker, our mission is to integrate AI-driven job matching and predictive analytics to not only track but also to foresee opportunities that align with our users' career trajectories. The universe is expanding, and so are the possibilities with AstroTracker.
 
 AstroTracker isn't just a project; it's a journey. A journey that we are thrilled to be on with you, as we redefine the way the world approaches job searching. Onwards and upwards!
+
+
+## Execution
+
+Clone the project and run app.py
